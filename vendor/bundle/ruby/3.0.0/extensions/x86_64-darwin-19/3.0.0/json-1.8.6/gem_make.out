@@ -1,0 +1,13 @@
+current directory: /Users/aocampoe/Documents/DEVELOP/APPS_PERSONALES/CIGitHubActions/vendor/bundle/ruby/3.0.0/gems/json-1.8.6/ext/json
+/Users/aocampoe/.rvm/rubies/ruby-3.0.0/bin/ruby -I /Users/aocampoe/.rvm/rubies/ruby-3.0.0/lib/ruby/3.0.0 -r ./siteconf20210215-34261-rh03j3.rb extconf.rb
+creating Makefile
+
+current directory: /Users/aocampoe/Documents/DEVELOP/APPS_PERSONALES/CIGitHubActions/vendor/bundle/ruby/3.0.0/gems/json-1.8.6/ext/json
+make "DESTDIR=" clean
+
+current directory: /Users/aocampoe/Documents/DEVELOP/APPS_PERSONALES/CIGitHubActions/vendor/bundle/ruby/3.0.0/gems/json-1.8.6/ext/json
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+current directory: /Users/aocampoe/Documents/DEVELOP/APPS_PERSONALES/CIGitHubActions/vendor/bundle/ruby/3.0.0/gems/json-1.8.6/ext/json
+make "DESTDIR=" install
